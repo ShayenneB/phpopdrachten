@@ -25,7 +25,7 @@
                 echo "<h1>Taak 7</h1>";
                 echo $task7;
     ?>
-            <a href="/phpopdrachten/index.php">Terug</a>
+            <a href="../index.php">Terug</a>
     <?php
     include "../Includes/footer.php";
     ?>

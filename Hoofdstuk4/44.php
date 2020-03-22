@@ -24,7 +24,7 @@
         echo "Dag " . $telDays . " is " . (strtotime("now", date('w')) . " " . $date1 . "<br>");
     }
     ?>
-            <a href="/phpopdrachten/index.php">Terug</a>
+            <a href="../index.php">Terug</a>
     <?php
     include "../Includes/footer.php";
     ?>

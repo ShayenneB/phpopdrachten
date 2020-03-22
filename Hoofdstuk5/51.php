@@ -39,7 +39,7 @@
             <input type="submit" value="Versturen" id="submit"><br>
         </form>
         <br>
-            <a href="/phpopdrachten/index.php">Terug</a>
+            <a href="../index.php">Terug</a>
     <?php
     include "../Includes/footer.php";
     ?>
