@@ -33,7 +33,7 @@ $task6= '';
 $year = date('Y');
 $age = 18;
 
-while($year >= 2003){
+while($year >= 2001){
 
     $task6 .= "<p>In " . $year . " was ik " . $age . " jaar oud</p><br>";
 
