@@ -21,7 +21,7 @@
     </tr>
     <tr>
         <td>Succesklas?:</td>
-        <td><?php var echo $_GET["successClass"]; ?>.<br /></td>
+        <td><?php echo $_GET["successClass"]; ?>.<br /></td>
     </tr>
     <tr>
         <td>Data verwijderen?:</td>
