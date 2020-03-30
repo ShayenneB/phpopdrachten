@@ -1,3 +1,14 @@
+    <!DOCTYPE HTML>
+    <html>
+    <head>
+        <meta name="description" content=" ">
+        <meta name="keywords" content=" ">
+        <meta charset="UTF-8">
+    </head>
+    <body>
+    <?php
+    include "../Includes/header.php";
+    ?>
 <table>
     <tr>
         <td>Voor en Achternaam</td>
@@ -32,3 +43,9 @@
         <td><?php echo $_GET["rWhy"]; ?>.<br /></td>
     </tr>
 </table>    
+    <a href="/phpopdrachten/index.php">Terug</a>
+    <?php
+    include "../Includes/footer.php";
+    ?>
+</body>
+</html>
