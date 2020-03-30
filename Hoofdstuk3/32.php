@@ -13,7 +13,7 @@
         <?php
             // Declareren en initialiseren van de gewenste variabelen
             $trafficLightColor = "Groen";
-            $ambulanceComing = True;
+            $ambulanceComing = false;
 
             // driveOn declareren en initialiseren
             $driveOn = true;
@@ -43,7 +43,7 @@
             // Tonen van melding aan de automobilist
             if($driveOn == true)
             {
-                echo("<h1 class ='Greentext'>U mag doorrijden.</h1>");
+                echo("<h1 style='color: green;'>U mag doorrijden.</h1>");
             }
             else
             {
