@@ -65,7 +65,7 @@
                                 <a href="Hoofdstuk5/52.php">Opdracht 5.2</a>
                             </li>
                             <li>
-                                <a href="Hoofdstuk5/opdracht5.3.php">Opdracht 5.3</a>
+                                <a href="Hoofdstuk5/53.php">Opdracht 5.3</a>
                             </li>
                             <li>
                                 <a href="Hoofdstuk5/opdracht5.4.php">Opdracht 5.4</a>
