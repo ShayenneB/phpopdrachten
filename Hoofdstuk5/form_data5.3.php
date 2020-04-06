@@ -50,7 +50,7 @@ include "../Includes/functions.php"
     </tr>
     <tr>
         <th>Kans per ontmoeting op besmetting</th>
-        <td><?php echo echoKans(); ?>%</td>
+        <td><?php echoKans(); ?>%</td>
     </tr>
     <tr>
         <th>Kans is 1 op</th>
