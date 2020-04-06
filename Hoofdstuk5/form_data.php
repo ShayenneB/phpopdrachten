@@ -1,3 +1,18 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <title>
+        opdracht 5.3
+    </title>
+
+    <meta name="description" content=" ">
+    <meta name="keywords" content=" ">
+    <meta charset="utf-8">
+</head>
+<body>
+<?php
+include "../Includes/header.php"
+?>
 <table>
     <tr>
         <td>Bedrijfsnaam:</td>
@@ -24,3 +39,8 @@
         <td><?php echo $_GET["message"]; ?>.<br /></td>
     </tr>
 </table>
+<?php
+include "../Includes/footer.php"
+?>
+</body>
+</html>
