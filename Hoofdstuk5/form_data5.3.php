@@ -46,7 +46,7 @@ include "../Includes/functions.php"
         <td><?php echo $_POST["Question"]; ?></td>
     </tr>
     <tr>
-        <th colspan="2">De kans is n realiteit groter omdat je via je eigen netwerk besmet kan raken.</th>
+        <th colspan="2">De kans is in realiteit groter omdat je via je eigen netwerk besmet kan raken.</th>
     </tr>
     <tr>
         <th>Kans per ontmoeting op besmetting</th>
